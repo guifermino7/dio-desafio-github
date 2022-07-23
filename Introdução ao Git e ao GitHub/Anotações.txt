@@ -1,0 +1,4 @@
+Link para download do Git: https://git-scm.com/download
+OBS: Note que nesse link você precisa escolher o seu sistema operacional para fazer a instalação corretamente.
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.

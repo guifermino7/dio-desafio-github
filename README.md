@@ -7,7 +7,8 @@ Desafio de Projeto sobre Git/GitHub (relembrando como o usar o Git)
 
 ### Códigos Git que irão ajudar:
 $ git config --global user.name "Você", para cadastrar o login;
-$ git config --global user.email "seuemail@exemplo.com.br", para cadastrar o $ email;
+$ git config --global user.email "seuemail@exemplo.com.br", para cadastrar o
+$ email;
 $ git config --list, para listar todos os dados;
 $ git status, para verificar o status dos arquivos;
 $ git add *, para adiconar todos os arquivos novos que foram pegos no "git status";
